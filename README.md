@@ -44,7 +44,7 @@ _In this application, you experience how powerful the term API is and you also g
 * _P.S: two javaScript logic files where used here_
 
 ## WebLink
-https://emzzy241.github.io/Weather-Api-1.3.0/
+https://emzzy241.github.io/Weather-API-Great-Giphy/
 
 ## License
 Licensed under the GNU General Public License
